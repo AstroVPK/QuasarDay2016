@@ -1,0 +1,30 @@
+ \newcommand{\noop}[1]{}
+\begin{thebibliography}{4}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Barth} {et~al.}(2011){Barth}, {Nguyen}, {Malkan}, {Filippenko},
+  {Li}, {Gorjian}, {Joner}, {Bennert}, {Botyanszki}, {Cenko}, {Childress},
+  {Choi}, {Comerford}, {Cucciara}, {da Silva}, {Duch{\^e}ne}, {Fumagalli},
+  {Ganeshalingam}, {Gates}, {Gerke}, {Griffith}, {Harris}, {Hintz}, {Hsiao},
+  {Kandrashoff}, {Keel}, {Kirkman}, {Kleiser}, {Laney}, {Lee}, {Lopez}, {Lowe},
+  {Moody}, {Morton}, {Nierenberg}, {Nugent}, {Pancoast}, {Rex}, {Rich},
+  {Silverman}, {Smith}, {Sonnenfeld}, {Suzuki}, {Tytler}, {Walsh}, {Woo},
+  {Yang}, \& {Zeisse}}]{Barth11}
+{Barth}, A.~J., {Nguyen}, M.~L., {Malkan}, M.~A., {et~al.} 2011,
+  \href{http://dx.doi.org/10.1088/0004-637X/732/2/121}{\apj, 732, 121}
+
+\bibitem[{{Brockwell}(2014)}]{Brockwell14}
+{Brockwell}, P. 2014, \href{http://dx.doi.org/10.1007/s10463-014-0468-7}{Ann.
+  Inst. Stat. Math., 66, 647}
+
+\bibitem[{{Davis}(2002)}]{Davis}
+{Davis}, J.~H. 2002, Foundations of Deterministic and Stochastic Control
+  (Birkh\"{a}user)
+
+\bibitem[{{Kelly} {et~al.}(2014){Kelly}, {Becker}, {Sobolewska},
+  {Siemiginowska}, \& {Uttley}}]{Kelly14}
+{Kelly}, B.~C., {Becker}, A.~C., {Sobolewska}, M., {Siemiginowska}, A., \&
+  {Uttley}, P. 2014, \href{http://dx.doi.org/10.1088/0004-637X/788/1/33}{\apj,
+  788, 33}
+
+\end{thebibliography}
